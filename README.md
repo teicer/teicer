@@ -2,7 +2,7 @@
 <h3 align="left">A passionate frontend developer from Greece</h3>
 <p align="left">Let me tell you about an open-minded front-end developer from Greece. After completing his degree in Computer Science, this Christos Ioannou decided to get involved in the world of cloud computing and software engineering by doing a Master's degree. With a year of experience in React, JavaScript and TypeScript, this developer is already making a splash in the industry.
 
-Currently, he is working at IBO | Certh as a front-end developer. When he's not busy pushing code, you can catch him at the gym or indulging in a delicious kebab. And on a warm summer evening, there's nothing better than sipping a refreshing glass of ouzo.
+Currently, he is working at IBO | Certh as a front-end developer. When he's not busy pushing code, you can catch him at the gym or indulging in a delicious kebab. And on a warm summer evening, there's nothing better than sipping a refreshing glass of Beeeer.
 
 This developer is really on fire, so watch out for people!
 Processing. . .
